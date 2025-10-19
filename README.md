@@ -1,4 +1,3 @@
-# latihan-3
 Praktikum3
 #logika flowchart latihan 3
 
